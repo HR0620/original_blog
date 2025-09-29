@@ -4,7 +4,7 @@
 
 ## 公開URL
 
-<https>
+<https://hr0620.github.io/original_blog/>
 
 ## 使用技術
 
